@@ -12,6 +12,7 @@ body {
   height: 470px;
   padding: 20px 15px;
   background: rgb(0, 255, 166);
+  margin-left: 160%;
 }
 
 .search-engine {
